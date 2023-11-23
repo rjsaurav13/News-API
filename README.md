@@ -1,6 +1,6 @@
 # News API
 <p align="center">
-<img width="250" height="250" src="(https://github.com/rjsaurav13/News-API/blob/master/app/src/main/res/drawable/social.png)">
+<img width="250" height="250" src="(https://github.com/rjsaurav13/News-API/blob/39f60cd9e9d501770011953f69a30d121597ecf1/app/src/main/res/drawable/social.png)">
 </p>
 
 ## Abstract
