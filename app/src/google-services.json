@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946197804287",
+    "project_id": "social-zone-84fbb",
+    "storage_bucket": "social-zone-84fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946197804287:android:cce311d1e9048e8704c8ca",
+        "android_client_info": {
+          "package_name": "com.example.newsapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmyBXFbIFzjp74Pw1zuBJtWv7v2C-_HBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
